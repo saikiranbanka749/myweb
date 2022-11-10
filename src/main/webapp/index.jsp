@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h1>welcome to the tomcat</h1>
+	<h1>deploying the swiggy application</h1>
 </body>
 </html>
