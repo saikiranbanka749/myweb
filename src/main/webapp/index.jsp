@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h1>this is an zomato webapplication</h1>
+	<h1>this is swiggy webapplication</h1>
 </body>
 </html>
