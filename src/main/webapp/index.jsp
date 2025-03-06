@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h1>Hello World</h1>
+	<h1>APP VERSION v.1.0</h1>
 </body>
 </html>
